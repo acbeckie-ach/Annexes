@@ -12,4 +12,4 @@ public class AboutUIManager : MonoBehaviour
         SceneManager.LoadScene("LoginScene"); // Load LoginScene for existing users
     }
 }
-AboutScene.cs script directs user to either registration or login depending on their account status 
+//AboutScene.cs script directs user to either registration or login depending on their account status 
